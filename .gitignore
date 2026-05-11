@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+plotenv/
+
+# Databases and transient files
+*.db
+*.db-shm
+*.db-wal
+*.csv
+*.png
+*.log
+
+# Binaries
+wa-reaction-sidechannel-poc
+*.exe
+*.test
